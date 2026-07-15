@@ -182,12 +182,4 @@ Smart-OMR-System/
 
 ---
 
-# 👩‍💻 Author
 
-**Junugari Laharika**
-
-Bachelor of Technology (Computer Science and Engineering)
-
----
-
-## ⭐ If you found this project useful, consider giving it a Star!
